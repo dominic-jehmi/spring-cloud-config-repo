@@ -5,4 +5,4 @@ logging:
     root: info
     com.jehmi: debug
 
-dominic.message: dominic local yes~!!!!
+dominic.message: dominic local~!!!!
