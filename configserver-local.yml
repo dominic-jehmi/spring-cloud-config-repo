@@ -1,5 +1,8 @@
 phase: alpah
 
-logging.level: debug
+logging:
+  level:
+    root: info
+    com.jehmi: debug
 
 dominic.message: dominic local~!!!!
