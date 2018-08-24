@@ -1,1 +1,3 @@
 phase: dev
+
+logging.level: debug

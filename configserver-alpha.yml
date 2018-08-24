@@ -1,1 +1,3 @@
 phase: alpah
+
+logging.level: debug
